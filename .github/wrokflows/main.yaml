@@ -3,6 +3,7 @@ name: Trigger Jenkins Job
 on:
   push:
     branches: [main]
+    
 jobs:
   trigger:
     name: Build
