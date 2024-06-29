@@ -1,4 +1,4 @@
-# CT-Scan-Image-Classification
+# CT-Scan-Image-Classification project
 
 import dagshub
 dagshub.init(repo_owner='pramodmgond', repo_name='MLflow_dagshub', mlflow=True)
