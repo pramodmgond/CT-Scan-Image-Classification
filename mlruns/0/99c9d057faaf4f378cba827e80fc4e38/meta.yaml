@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/pramod/Desktop/INURON/MLOPS_DS_Project/Chest_CT_Scan_data/CT_Scan_Image_Classification/mlruns/0/99c9d057faaf4f378cba827e80fc4e38/artifacts
+end_time: 1719639565983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99c9d057faaf4f378cba827e80fc4e38
+run_name: whimsical-trout-808
+run_uuid: 99c9d057faaf4f378cba827e80fc4e38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719639549875
+status: 3
+tags: []
+user_id: pramod
