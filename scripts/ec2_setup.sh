@@ -1,4 +1,6 @@
 #!bin/bash
+# aws cli installation chat ght
+https://chatgpt.com/share/689968e7-a5a8-4f72-92cb-9dbcc8a0849c
 
 sudo apt update 
 
