@@ -34,3 +34,5 @@ dvc init
 dvc repro 
 dvc dag
 
+# jenkins url 
+http://100.29.181.106:8080/
